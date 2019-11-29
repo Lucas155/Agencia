@@ -10,8 +10,9 @@
     align-items: center;
 }
 
-#servico .row div{
-    height: 200px;
-    background: green;
-    color: #fff;
+#sobree{
+    position: relative;
+    left: 20%;
 }
+
+
